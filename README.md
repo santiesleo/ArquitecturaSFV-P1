@@ -57,8 +57,7 @@ CMD ["npm", "start"]
 6. **Versionado**: Código versionado en Git
 
 ## Captura de Pantalla
-
-image.png
+![Logs](https://github.com/santiesleo/ArquitecturaSFV-P1/blob/main/screenshots/logs.png)
 
 ## Mejoras Futuras
 
